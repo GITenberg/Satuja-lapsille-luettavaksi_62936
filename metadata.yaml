@@ -1,0 +1,28 @@
+_repo: Satuja-lapsille-luettavaksi_62936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swan, Annie S.
+    aliases:
+    - Burnett-Smith, A. (Annie)
+    - Lyall, David
+    - Smith, Annie S.
+    - Smith, Burnett, Mrs.
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '4770'
+    url: http://www.gutenberg.org/2009/agents/4770
+    wikipedia: https://en.wikipedia.org/wiki/Annie_S._Swan
+description: ''
+gutenberg_issued: '2020-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62936'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Satuja lapsille luettavaksi
+url: http://www.gutenberg.org/ebooks/62936
