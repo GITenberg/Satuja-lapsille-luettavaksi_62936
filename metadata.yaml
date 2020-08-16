@@ -1,5 +1,8 @@
 _repo: Satuja-lapsille-luettavaksi_62936
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swan, Annie S.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4770
     wikipedia: https://en.wikipedia.org/wiki/Annie_S._Swan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62936#Satuja-lapsille-luettavaksi
 gutenberg_issued: '2020-08-15'
 gutenberg_type: Text
 identifiers:
